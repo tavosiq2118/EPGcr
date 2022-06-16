@@ -1,0 +1,685 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="CANAL 4 REPRETEL">
+    <display-name lang="es">CANAL 4 REPRETEL</display-name>
+    <url>http://www.reportv.com.ar</url>
+  </channel>
+  <channel id="CANAL 6 REPRETEL">
+    <display-name lang="es">CANAL 6 REPRETEL</display-name>
+    <url>http://www.reportv.com.ar</url>
+  </channel>
+  <channel id="CANAL 9 COSTA RICA">
+    <display-name lang="es">CANAL 9 COSTA RICA</display-name>
+    <url>http://www.reportv.com.ar</url>
+  </channel>
+  <channel id="CANAL 2 CDR">
+    <display-name lang="es">CANAL 2 CDR</display-name>
+    <url>http://www.reportv.com.ar</url>
+  </channel>
+  <channel id="CANAL 11 REPRETEL">
+    <display-name lang="es">CANAL 11 REPRETEL</display-name>
+    <url>http://www.reportv.com.ar</url>
+  </channel>
+  <channel id="SINART CANAL 13">
+    <display-name lang="es">SINART CANAL 13</display-name>
+    <url>http://www.reportv.com.ar</url>
+  </channel>
+  <channel id="EXTRA TV 42">
+    <display-name lang="es">EXTRA TV 42</display-name>
+    <url>http://www.reportv.com.ar</url>
+  </channel>
+  <channel id="TELETICA">
+    <display-name lang="es">TELETICA</display-name>
+    <url>http://www.reportv.com.ar</url>
+  </channel>
+  <channel id="UNIVERSIDAD UCR">
+    <display-name lang="es">UNIVERSIDAD UCR</display-name>
+    <icon src="http://181.30.4.186/buscador/img/Logos/NoPicture.jpg" />
+    <url>http://www.reportvMulti.com.ar</url>
+  </channel>
+  <channel id="TELEFIDES">
+    <display-name lang="es">TELEFIDES</display-name>
+    <url>http://www.reportv.com.ar</url>
+  </channel>
+  <channel id="VM LATINO">
+    <display-name lang="es">VM LATINO</display-name>
+    <url>http://www.reportv.com.ar</url>
+  </channel>
+  <channel id="TELESUR">
+    <display-name lang="es">TELESUR</display-name>
+    <url>http://www.reportv.com.ar</url>
+  </channel>
+  <programme start="20220616000000 -0300" stop="20220616100000 -0300" channel="CANAL 4 REPRETEL">
+    <title lang="es">Fuera del aire</title>
+  </programme>
+  <programme start="20220616100000 -0300" stop="20220616120000 -0300" channel="CANAL 4 REPRETEL">
+    <title lang="es">Hoy</title>
+  </programme>
+  <programme start="20220616120000 -0300" stop="20220616130000 -0300" channel="CANAL 4 REPRETEL">
+    <title lang="es">Amores con trampa</title>
+  </programme>
+  <programme start="20220616130000 -0300" stop="20220616140000 -0300" channel="CANAL 4 REPRETEL">
+    <title lang="es">Cuidado con el ángel</title>
+  </programme>
+  <programme start="20220616140000 -0300" stop="20220616150000 -0300" channel="CANAL 4 REPRETEL">
+    <title lang="es">Las tontas no van al cielo</title>
+  </programme>
+  <programme start="20220616150000 -0300" stop="20220616160000 -0300" channel="CANAL 4 REPRETEL">
+    <title lang="es">Alma de hierro</title>
+  </programme>
+  <programme start="20220616160000 -0300" stop="20220616170000 -0300" channel="CANAL 4 REPRETEL">
+    <title lang="es">Zacatillo, un lugar en tu corazón</title>
+  </programme>
+  <programme start="20220616170000 -0300" stop="20220616180000 -0300" channel="CANAL 4 REPRETEL">
+    <title lang="es">Niña de mi corazón</title>
+  </programme>
+  <programme start="20220616180000 -0300" stop="20220616190000 -0300" channel="CANAL 4 REPRETEL">
+    <title lang="es">Esta historia... me suena</title>
+  </programme>
+  <programme start="20220616190000 -0300" stop="20220616200000 -0300" channel="CANAL 4 REPRETEL">
+    <title lang="es">America`s Next Top Model</title>
+  </programme>
+  <programme start="20220616200000 -0300" stop="20220616210000 -0300" channel="CANAL 4 REPRETEL">
+    <title lang="es">Survivor</title>
+  </programme>
+  <programme start="20220616210000 -0300" stop="20220616220000 -0300" channel="CANAL 4 REPRETEL">
+    <title lang="es">NCIS</title>
+  </programme>
+  <programme start="20220616220000 -0300" stop="20220616230000 -0300" channel="CANAL 4 REPRETEL">
+    <title lang="es">Alerta cobra</title>
+  </programme>
+  <programme start="20220616230000 -0300" stop="20220617000000 -0300" channel="CANAL 4 REPRETEL">
+    <title lang="es">The Walking Dead</title>
+  </programme>
+  <programme start="20220616003000 -0300" stop="20220616011500 -0300" channel="CANAL 6 REPRETEL">
+    <title lang="es">Mujer, casos de la vida real</title>
+  </programme>
+  <programme start="20220616011500 -0300" stop="20220616020000 -0300" channel="CANAL 6 REPRETEL">
+    <title lang="es">La rosa de Guadalupe</title>
+  </programme>
+  <programme start="20220616020000 -0300" stop="20220616030000 -0300" channel="CANAL 6 REPRETEL">
+    <title lang="es">Mujeres al límite</title>
+  </programme>
+  <programme start="20220616030000 -0300" stop="20220616040000 -0300" channel="CANAL 6 REPRETEL">
+    <title lang="es">La tercera en discordia</title>
+  </programme>
+  <programme start="20220616040000 -0300" stop="20220616050000 -0300" channel="CANAL 6 REPRETEL">
+    <title lang="es">Clásicos de como dice el dicho</title>
+  </programme>
+  <programme start="20220616050000 -0300" stop="20220616055000 -0300" channel="CANAL 6 REPRETEL">
+    <title lang="es">Llena de amor</title>
+  </programme>
+  <programme start="20220616055000 -0300" stop="20220616080000 -0300" channel="CANAL 6 REPRETEL">
+    <title lang="es">Noticias Repretel</title>
+  </programme>
+  <programme start="20220616080000 -0300" stop="20220616100000 -0300" channel="CANAL 6 REPRETEL">
+    <title lang="es">Giros</title>
+  </programme>
+  <programme start="20220616100000 -0300" stop="20220616110000 -0300" channel="CANAL 6 REPRETEL">
+    <title lang="es">S.O.S. Me estoy enamorando</title>
+  </programme>
+  <programme start="20220616110000 -0300" stop="20220616115700 -0300" channel="CANAL 6 REPRETEL">
+    <title lang="es">Sortilegio</title>
+  </programme>
+  <programme start="20220616115700 -0300" stop="20220616140000 -0300" channel="CANAL 6 REPRETEL">
+    <title lang="es">Noticias Repretel</title>
+  </programme>
+  <programme start="20220616140000 -0300" stop="20220616150000 -0300" channel="CANAL 6 REPRETEL">
+    <title lang="es">Mi fortuna es amarte</title>
+  </programme>
+  <programme start="20220616150000 -0300" stop="20220616160000 -0300" channel="CANAL 6 REPRETEL">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20220616160000 -0300" stop="20220616170000 -0300" channel="CANAL 6 REPRETEL">
+    <title lang="es">Lo que callamos las mujeres</title>
+  </programme>
+  <programme start="20220616170000 -0300" stop="20220616185800 -0300" channel="CANAL 6 REPRETEL">
+    <title lang="es">La rosa de Guadalupe</title>
+  </programme>
+  <programme start="20220616185800 -0300" stop="20220616200000 -0300" channel="CANAL 6 REPRETEL">
+    <title lang="es">Noticias Repretel</title>
+  </programme>
+  <programme start="20220616200000 -0300" stop="20220616210000 -0300" channel="CANAL 6 REPRETEL">
+    <title lang="es">Hercai: amor y venganza</title>
+  </programme>
+  <programme start="20220616210000 -0300" stop="20220616220000 -0300" channel="CANAL 6 REPRETEL">
+    <title lang="es">Tierra amarga</title>
+  </programme>
+  <programme start="20220616220000 -0300" stop="20220616230000 -0300" channel="CANAL 6 REPRETEL">
+    <title lang="es">Cukur - El pozo</title>
+  </programme>
+  <programme start="20220616230000 -0300" stop="20220616233000 -0300" channel="CANAL 6 REPRETEL">
+    <title lang="es">Noticias Repretel</title>
+  </programme>
+  <programme start="20220616233000 -0300" stop="20220617003000 -0300" channel="CANAL 6 REPRETEL">
+    <title lang="es">La Candidata, el juego del poder</title>
+  </programme>
+  <programme start="20220616001500 -0300" stop="20220616010000 -0300" channel="CANAL 11 REPRETEL">
+    <title lang="es">Miembros al aire</title>
+  </programme>
+  <programme start="20220616010000 -0300" stop="20220616020000 -0300" channel="CANAL 11 REPRETEL">
+    <title lang="es">Netas divinas</title>
+  </programme>
+  <programme start="20220616020000 -0300" stop="20220616030000 -0300" channel="CANAL 11 REPRETEL">
+    <title lang="es">El gordo y la flaca</title>
+  </programme>
+  <programme start="20220616030000 -0300" stop="20220616040000 -0300" channel="CANAL 11 REPRETEL">
+    <title lang="es">Primer impacto</title>
+  </programme>
+  <programme start="20220616040000 -0300" stop="20220616050000 -0300" channel="CANAL 11 REPRETEL">
+    <title lang="es">Laura sin censura</title>
+  </programme>
+  <programme start="20220616050000 -0300" stop="20220616060000 -0300" channel="CANAL 11 REPRETEL">
+    <title lang="es">Informe 11, Las historias</title>
+  </programme>
+  <programme start="20220616060000 -0300" stop="20220616090000 -0300" channel="CANAL 11 REPRETEL">
+    <title lang="es">Despierta, América</title>
+  </programme>
+  <programme start="20220616090000 -0300" stop="20220616103000 -0300" channel="CANAL 11 REPRETEL">
+    <title lang="es">120 minutos</title>
+  </programme>
+  <programme start="20220616103000 -0300" stop="20220616113000 -0300" channel="CANAL 11 REPRETEL">
+    <title lang="es">La cocina de...</title>
+  </programme>
+  <programme start="20220616113000 -0300" stop="20220616123000 -0300" channel="CANAL 11 REPRETEL">
+    <title lang="es">Andrea</title>
+  </programme>
+  <programme start="20220616123000 -0300" stop="20220616133000 -0300" channel="CANAL 11 REPRETEL">
+    <title lang="es">¡Cuéntamelo ya!</title>
+  </programme>
+  <programme start="20220616133000 -0300" stop="20220616140000 -0300" channel="CANAL 11 REPRETEL">
+    <title lang="es">Noticiero Univisión - Edición digital</title>
+  </programme>
+  <programme start="20220616140000 -0300" stop="20220616150000 -0300" channel="CANAL 11 REPRETEL">
+    <title lang="es">NC Once - Vespertina</title>
+  </programme>
+  <programme start="20220616150000 -0300" stop="20220616160000 -0300" channel="CANAL 11 REPRETEL">
+    <title lang="es">El gordo y la flaca</title>
+  </programme>
+  <programme start="20220616160000 -0300" stop="20220616170000 -0300" channel="CANAL 11 REPRETEL">
+    <title lang="es">Primer impacto</title>
+  </programme>
+  <programme start="20220616170000 -0300" stop="20220616180000 -0300" channel="CANAL 11 REPRETEL">
+    <title lang="es">Caso cerrado</title>
+  </programme>
+  <programme start="20220616180000 -0300" stop="20220616190000 -0300" channel="CANAL 11 REPRETEL">
+    <title lang="es">NC Once, edición estelar</title>
+  </programme>
+  <programme start="20220616190000 -0300" stop="20220616193000 -0300" channel="CANAL 11 REPRETEL">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20220616193000 -0300" stop="20220616200000 -0300" channel="CANAL 11 REPRETEL">
+    <title lang="es">La familia Peluche</title>
+  </programme>
+  <programme start="20220616200000 -0300" stop="20220616210000 -0300" channel="CANAL 11 REPRETEL">
+    <title lang="es">Conexión fútbol</title>
+  </programme>
+  <programme start="20220616210000 -0300" stop="20220616220000 -0300" channel="CANAL 11 REPRETEL">
+    <title lang="es">Informe 11, Las historias - Lo mejor del miércoles</title>
+  </programme>
+  <programme start="20220616220000 -0300" stop="20220616230000 -0300" channel="CANAL 11 REPRETEL">
+    <title lang="es">NC Once - Edición Nocturna</title>
+  </programme>
+  <programme start="20220616230000 -0300" stop="20220616233000 -0300" channel="CANAL 11 REPRETEL">
+    <title lang="es">Noticiero Univisión</title>
+  </programme>
+  <programme start="20220616233000 -0300" stop="20220617001500 -0300" channel="CANAL 11 REPRETEL">
+    <title lang="es">Contacto deportivo</title>
+  </programme>
+  <programme start="20220616000000 -0300" stop="20220616013000 -0300" channel="SINART CANAL 13">
+    <title lang="es">Trece Costa Rica noticias</title>
+  </programme>
+  <programme start="20220616013000 -0300" stop="20220616020000 -0300" channel="SINART CANAL 13">
+    <title lang="es">Código Trece</title>
+  </programme>
+  <programme start="20220616020000 -0300" stop="20220616023000 -0300" channel="SINART CANAL 13">
+    <title lang="es">ET</title>
+  </programme>
+  <programme start="20220616023000 -0300" stop="20220616024500 -0300" channel="SINART CANAL 13">
+    <title lang="es">Japan Video Topics</title>
+  </programme>
+  <programme start="20220616024500 -0300" stop="20220616030000 -0300" channel="SINART CANAL 13">
+    <title lang="es">Patrimonio de la humanidad en Japón</title>
+  </programme>
+  <programme start="20220616030000 -0300" stop="20220616033000 -0300" channel="SINART CANAL 13">
+    <title lang="es">NCC</title>
+  </programme>
+  <programme start="20220616033000 -0300" stop="20220616040000 -0300" channel="SINART CANAL 13">
+    <title lang="es">Instinto</title>
+  </programme>
+  <programme start="20220616040000 -0300" stop="20220616043000 -0300" channel="SINART CANAL 13">
+    <title lang="es">El mundo de Arcadio</title>
+  </programme>
+  <programme start="20220616043000 -0300" stop="20220616053000 -0300" channel="SINART CANAL 13">
+    <title lang="es">Complejamente</title>
+  </programme>
+  <programme start="20220616053000 -0300" stop="20220616060000 -0300" channel="SINART CANAL 13">
+    <title lang="es">Promuévete</title>
+  </programme>
+  <programme start="20220616060000 -0300" stop="20220616061500 -0300" channel="SINART CANAL 13">
+    <title lang="es">Santo Rosario</title>
+  </programme>
+  <programme start="20220616061500 -0300" stop="20220616063000 -0300" channel="SINART CANAL 13">
+    <title lang="es">Desiderata</title>
+  </programme>
+  <programme start="20220616063000 -0300" stop="20220616080000 -0300" channel="SINART CANAL 13">
+    <title lang="es">Trece Costa Rica noticias</title>
+  </programme>
+  <programme start="20220616080000 -0300" stop="20220616090000 -0300" channel="SINART CANAL 13">
+    <title lang="es">Póngale bonito</title>
+  </programme>
+  <programme start="20220616090000 -0300" stop="20220616093000 -0300" channel="SINART CANAL 13">
+    <title lang="es">El sabor de mi tierra</title>
+  </programme>
+  <programme start="20220616093000 -0300" stop="20220616100000 -0300" channel="SINART CANAL 13">
+    <title lang="es">Aprendo en casa</title>
+  </programme>
+  <programme start="20220616100000 -0300" stop="20220616103000 -0300" channel="SINART CANAL 13">
+    <title lang="es">La magia del color</title>
+  </programme>
+  <programme start="20220616103000 -0300" stop="20220616120000 -0300" channel="SINART CANAL 13">
+    <title lang="es">Café nacional</title>
+  </programme>
+  <programme start="20220616120000 -0300" stop="20220616130000 -0300" channel="SINART CANAL 13">
+    <title lang="es">Trece Costa Rica noticias</title>
+  </programme>
+  <programme start="20220616130000 -0300" stop="20220616140000 -0300" channel="SINART CANAL 13">
+    <title lang="es">Complejamente</title>
+  </programme>
+  <programme start="20220616140000 -0300" stop="20220616143000 -0300" channel="SINART CANAL 13">
+    <title lang="es">Una comida para el corazón</title>
+  </programme>
+  <programme start="20220616143000 -0300" stop="20220616150000 -0300" channel="SINART CANAL 13">
+    <title lang="es">Nexos</title>
+  </programme>
+  <programme start="20220616150000 -0300" stop="20220616153000 -0300" channel="SINART CANAL 13">
+    <title lang="es">Aprendo en casa</title>
+  </programme>
+  <programme start="20220616153000 -0300" stop="20220616160000 -0300" channel="SINART CANAL 13">
+    <title lang="es">Aprendo en casa</title>
+  </programme>
+  <programme start="20220616160000 -0300" stop="20220616170000 -0300" channel="SINART CANAL 13">
+    <title lang="es">Nuestras regiones</title>
+  </programme>
+  <programme start="20220616170000 -0300" stop="20220616174500 -0300" channel="SINART CANAL 13">
+    <title lang="es">Santa misa desde la catedral</title>
+  </programme>
+  <programme start="20220616174500 -0300" stop="20220616180000 -0300" channel="SINART CANAL 13">
+    <title lang="es">El reportero</title>
+  </programme>
+  <programme start="20220616180000 -0300" stop="20220616190000 -0300" channel="SINART CANAL 13">
+    <title lang="es">Ahí viene Asa</title>
+  </programme>
+  <programme start="20220616190000 -0300" stop="20220616200000 -0300" channel="SINART CANAL 13">
+    <title lang="es">Trece Costa Rica noticias</title>
+  </programme>
+  <programme start="20220616200000 -0300" stop="20220616203000 -0300" channel="SINART CANAL 13">
+    <title lang="es">1,5º el límite</title>
+  </programme>
+  <programme start="20220616203000 -0300" stop="20220616213000 -0300" channel="SINART CANAL 13">
+    <title lang="es">Nuestras regiones</title>
+  </programme>
+  <programme start="20220616213000 -0300" stop="20220616220000 -0300" channel="SINART CANAL 13">
+    <title lang="es">Fuerza interior</title>
+  </programme>
+  <programme start="20220616220000 -0300" stop="20220616230000 -0300" channel="SINART CANAL 13">
+    <title lang="es">Una mirada</title>
+  </programme>
+  <programme start="20220616230000 -0300" stop="20220616233000 -0300" channel="SINART CANAL 13">
+    <title lang="es">Nexos</title>
+  </programme>
+  <programme start="20220616233000 -0300" stop="20220617000000 -0300" channel="SINART CANAL 13">
+    <title lang="es">Instinto</title>
+  </programme>
+  <programme start="20220616000000 -0300" stop="20220616060000 -0300" channel="EXTRA TV 42">
+    <title lang="es">Cierre de transmisión</title>
+  </programme>
+  <programme start="20220616060000 -0300" stop="20220616070000 -0300" channel="EXTRA TV 42">
+    <title lang="es">Norteña</title>
+  </programme>
+  <programme start="20220616070000 -0300" stop="20220616073000 -0300" channel="EXTRA TV 42">
+    <title lang="es">Astro chamanismo</title>
+  </programme>
+  <programme start="20220616073000 -0300" stop="20220616083000 -0300" channel="EXTRA TV 42">
+    <title lang="es">Tierra de niños</title>
+  </programme>
+  <programme start="20220616083000 -0300" stop="20220616090000 -0300" channel="EXTRA TV 42">
+    <title lang="es">Congregación mística</title>
+  </programme>
+  <programme start="20220616090000 -0300" stop="20220616093000 -0300" channel="EXTRA TV 42">
+    <title lang="es">Música</title>
+  </programme>
+  <programme start="20220616093000 -0300" stop="20220616100000 -0300" channel="EXTRA TV 42">
+    <title lang="es">Un encuentro con la verdad</title>
+  </programme>
+  <programme start="20220616100000 -0300" stop="20220616110000 -0300" channel="EXTRA TV 42">
+    <title lang="es">Como en casa</title>
+  </programme>
+  <programme start="20220616110000 -0300" stop="20220616113000 -0300" channel="EXTRA TV 42">
+    <title lang="es">Cultura.21</title>
+  </programme>
+  <programme start="20220616113000 -0300" stop="20220616120000 -0300" channel="EXTRA TV 42">
+    <title lang="es">Docu - Ciencia y tecnología</title>
+  </programme>
+  <programme start="20220616120000 -0300" stop="20220616123000 -0300" channel="EXTRA TV 42">
+    <title lang="es">Extra formato</title>
+  </programme>
+  <programme start="20220616123000 -0300" stop="20220616133000 -0300" channel="EXTRA TV 42">
+    <title lang="es">Docu - Ciencia y tecnología</title>
+  </programme>
+  <programme start="20220616133000 -0300" stop="20220616140000 -0300" channel="EXTRA TV 42">
+    <title lang="es">Astro chamanismo</title>
+  </programme>
+  <programme start="20220616140000 -0300" stop="20220616150000 -0300" channel="EXTRA TV 42">
+    <title lang="es">Tierra de niños</title>
+  </programme>
+  <programme start="20220616150000 -0300" stop="20220616160000 -0300" channel="EXTRA TV 42">
+    <title lang="es">Opción natural</title>
+  </programme>
+  <programme start="20220616160000 -0300" stop="20220616163000 -0300" channel="EXTRA TV 42">
+    <title lang="es">Congregación mística</title>
+  </programme>
+  <programme start="20220616163000 -0300" stop="20220616170000 -0300" channel="EXTRA TV 42">
+    <title lang="es">Docu - Ciencia y tecnología</title>
+  </programme>
+  <programme start="20220616170000 -0300" stop="20220616180000 -0300" channel="EXTRA TV 42">
+    <title lang="es">Docu - Ciencia y tecnología</title>
+  </programme>
+  <programme start="20220616180000 -0300" stop="20220616183000 -0300" channel="EXTRA TV 42">
+    <title lang="es">Extra formato</title>
+  </programme>
+  <programme start="20220616183000 -0300" stop="20220616193000 -0300" channel="EXTRA TV 42">
+    <title lang="es">El francotirador</title>
+  </programme>
+  <programme start="20220616193000 -0300" stop="20220616200000 -0300" channel="EXTRA TV 42">
+    <title lang="es">Docu - Ciencia y tecnología</title>
+  </programme>
+  <programme start="20220616200000 -0300" stop="20220616210000 -0300" channel="EXTRA TV 42">
+    <title lang="es">Sin rodeos</title>
+  </programme>
+  <programme start="20220616210000 -0300" stop="20220616213000 -0300" channel="EXTRA TV 42">
+    <title lang="es">Extra formato</title>
+  </programme>
+  <programme start="20220616213000 -0300" stop="20220616220000 -0300" channel="EXTRA TV 42">
+    <title lang="es">El destino de tu suerte</title>
+  </programme>
+  <programme start="20220616220000 -0300" stop="20220616230000 -0300" channel="EXTRA TV 42">
+    <title lang="es">Docu - Cocina</title>
+  </programme>
+  <programme start="20220616230000 -0300" stop="20220616233000 -0300" channel="EXTRA TV 42">
+    <title lang="es">Docu - Ciencia y tecnología</title>
+  </programme>
+  <programme start="20220616233000 -0300" stop="20220617000000 -0300" channel="EXTRA TV 42">
+    <title lang="es">Romántica</title>
+  </programme>
+  <programme start="20220616000000 -0300" stop="20220616003000 -0300" channel="TELETICA">
+    <title lang="es">Criminal Minds</title>
+  </programme>
+  <programme start="20220616003000 -0300" stop="20220616013000 -0300" channel="TELETICA">
+    <title lang="es">De boca en boca</title>
+  </programme>
+  <programme start="20220616013000 -0300" stop="20220616023000 -0300" channel="TELETICA">
+    <title lang="es">¡Qué buena tarde!</title>
+  </programme>
+  <programme start="20220616023000 -0300" stop="20220616033000 -0300" channel="TELETICA">
+    <title lang="es">Edificio Corona</title>
+  </programme>
+  <programme start="20220616033000 -0300" stop="20220616043000 -0300" channel="TELETICA">
+    <title lang="es">7 días</title>
+  </programme>
+  <programme start="20220616043000 -0300" stop="20220616050000 -0300" channel="TELETICA">
+    <title lang="es">Más que noticias</title>
+  </programme>
+  <programme start="20220616050000 -0300" stop="20220616060000 -0300" channel="TELETICA">
+    <title lang="es">Dulce ambición</title>
+  </programme>
+  <programme start="20220616060000 -0300" stop="20220616080000 -0300" channel="TELETICA">
+    <title lang="es">Telenoticias - Matutina</title>
+  </programme>
+  <programme start="20220616080000 -0300" stop="20220616100000 -0300" channel="TELETICA">
+    <title lang="es">Buen día</title>
+  </programme>
+  <programme start="20220616100000 -0300" stop="20220616110000 -0300" channel="TELETICA">
+    <title lang="es">Silvana sin lana</title>
+  </programme>
+  <programme start="20220616110000 -0300" stop="20220616120000 -0300" channel="TELETICA">
+    <title lang="es">La ley del corazón</title>
+  </programme>
+  <programme start="20220616120000 -0300" stop="20220616133000 -0300" channel="TELETICA">
+    <title lang="es">Telenoticias meridiana</title>
+  </programme>
+  <programme start="20220616133000 -0300" stop="20220616143000 -0300" channel="TELETICA">
+    <title lang="es">De boca en boca</title>
+  </programme>
+  <programme start="20220616143000 -0300" stop="20220616153000 -0300" channel="TELETICA">
+    <title lang="es">Amor en el aire</title>
+  </programme>
+  <programme start="20220616153000 -0300" stop="20220616163000 -0300" channel="TELETICA">
+    <title lang="es">Edificio Corona</title>
+  </programme>
+  <programme start="20220616163000 -0300" stop="20220616173000 -0300" channel="TELETICA">
+    <title lang="es">Yo soy Betty, la fea</title>
+  </programme>
+  <programme start="20220616173000 -0300" stop="20220616183000 -0300" channel="TELETICA">
+    <title lang="es">¡Qué buena tarde!</title>
+  </programme>
+  <programme start="20220616183000 -0300" stop="20220616190000 -0300" channel="TELETICA">
+    <title lang="es">Más que noticias</title>
+  </programme>
+  <programme start="20220616190000 -0300" stop="20220616200000 -0300" channel="TELETICA">
+    <title lang="es">Telenoticias</title>
+  </programme>
+  <programme start="20220616200000 -0300" stop="20220616210000 -0300" channel="TELETICA">
+    <title lang="es">9-1-1</title>
+  </programme>
+  <programme start="20220616210000 -0300" stop="20220616220000 -0300" channel="TELETICA">
+    <title lang="es">Doctor Milagro</title>
+  </programme>
+  <programme start="20220616220000 -0300" stop="20220616230000 -0300" channel="TELETICA">
+    <title lang="es">Telenoticias</title>
+  </programme>
+  <programme start="20220616230000 -0300" stop="20220617000000 -0300" channel="TELETICA">
+    <title lang="es">Enfermeras</title>
+  </programme>
+  <programme start="20220616000000 -0300" stop="20220616003000 -0300" channel="TELEFIDES">
+    <title lang="es">Ángelus / Así piensa el Papa</title>
+  </programme>
+  <programme start="20220616003000 -0300" stop="20220616010000 -0300" channel="TELEFIDES">
+    <title lang="es">Ruta musical con sello católico</title>
+  </programme>
+  <programme start="20220616010000 -0300" stop="20220616010500 -0300" channel="TELEFIDES">
+    <title lang="es">Cátedra mayor</title>
+  </programme>
+  <programme start="20220616010500 -0300" stop="20220616013000 -0300" channel="TELEFIDES">
+    <title lang="es">Dos padres bien padres</title>
+  </programme>
+  <programme start="20220616013000 -0300" stop="20220616023000 -0300" channel="TELEFIDES">
+    <title lang="es">Telefides informe</title>
+  </programme>
+  <programme start="20220616023000 -0300" stop="20220616030000 -0300" channel="TELEFIDES">
+    <title lang="es">Creados para amar</title>
+  </programme>
+  <programme start="20220616030000 -0300" stop="20220616031000 -0300" channel="TELEFIDES">
+    <title lang="es">Coronilla</title>
+  </programme>
+  <programme start="20220616031000 -0300" stop="20220616031500 -0300" channel="TELEFIDES">
+    <title lang="es">Así piensa el Papa Francisco</title>
+  </programme>
+  <programme start="20220616031500 -0300" stop="20220616033000 -0300" channel="TELEFIDES">
+    <title lang="es">Mensaje del padre John Mario Montoya</title>
+  </programme>
+  <programme start="20220616033000 -0300" stop="20220616040000 -0300" channel="TELEFIDES">
+    <title lang="es">Padre Hugo Estrada</title>
+  </programme>
+  <programme start="20220616040000 -0300" stop="20220616050000 -0300" channel="TELEFIDES">
+    <title lang="es">Salvador Gómrez</title>
+  </programme>
+  <programme start="20220616050000 -0300" stop="20220616053000 -0300" channel="TELEFIDES">
+    <title lang="es">Santo Rosario - Misterios gloriosos</title>
+  </programme>
+  <programme start="20220616053000 -0300" stop="20220616060000 -0300" channel="TELEFIDES">
+    <title lang="es">Coronilla de la Divina Misericordia</title>
+  </programme>
+  <programme start="20220616060000 -0300" stop="20220616070000 -0300" channel="TELEFIDES">
+    <title lang="es">Mientras el mundo gira</title>
+  </programme>
+  <programme start="20220616070000 -0300" stop="20220616073000 -0300" channel="TELEFIDES">
+    <title lang="es">Galería - Series</title>
+  </programme>
+  <programme start="20220616073000 -0300" stop="20220616073500 -0300" channel="TELEFIDES">
+    <title lang="es">Cátedra mayor</title>
+  </programme>
+  <programme start="20220616073500 -0300" stop="20220616080000 -0300" channel="TELEFIDES">
+    <title lang="es">Dos padres bien padres</title>
+  </programme>
+  <programme start="20220616080000 -0300" stop="20220616083000 -0300" channel="TELEFIDES">
+    <title lang="es">EWTN noticias</title>
+  </programme>
+  <programme start="20220616083000 -0300" stop="20220616090000 -0300" channel="TELEFIDES">
+    <title lang="es">Ellas lo dicen</title>
+  </programme>
+  <programme start="20220616090000 -0300" stop="20220616093000 -0300" channel="TELEFIDES">
+    <title lang="es">Santo Rosario - Misterios gloriosos</title>
+  </programme>
+  <programme start="20220616093000 -0300" stop="20220616100000 -0300" channel="TELEFIDES">
+    <title lang="es">Catequesis Padre Hugo Estrada</title>
+  </programme>
+  <programme start="20220616100000 -0300" stop="20220616103000 -0300" channel="TELEFIDES">
+    <title lang="es">Los apóstoles de Cristo</title>
+  </programme>
+  <programme start="20220616103000 -0300" stop="20220616113000 -0300" channel="TELEFIDES">
+    <title lang="es">Santa misa Capilla María auxiliadora</title>
+  </programme>
+  <programme start="20220616113000 -0300" stop="20220616120000 -0300" channel="TELEFIDES">
+    <title lang="es">Cristonautas</title>
+  </programme>
+  <programme start="20220616120000 -0300" stop="20220616120500 -0300" channel="TELEFIDES">
+    <title lang="es">Ángelus</title>
+  </programme>
+  <programme start="20220616120500 -0300" stop="20220616123000 -0300" channel="TELEFIDES">
+    <title lang="es">Audiencia papal</title>
+  </programme>
+  <programme start="20220616123000 -0300" stop="20220616123500 -0300" channel="TELEFIDES">
+    <title lang="es">Cátedra mayor</title>
+  </programme>
+  <programme start="20220616123500 -0300" stop="20220616130000 -0300" channel="TELEFIDES">
+    <title lang="es">Dos padres bien padres</title>
+  </programme>
+  <programme start="20220616130000 -0300" stop="20220616133300 -0300" channel="TELEFIDES">
+    <title lang="es">Telefides informe</title>
+  </programme>
+  <programme start="20220616133300 -0300" stop="20220616140000 -0300" channel="TELEFIDES">
+    <title lang="es">Somos vid - Cápsula Juan Jaime Escobar</title>
+  </programme>
+  <programme start="20220616140000 -0300" stop="20220616143000 -0300" channel="TELEFIDES">
+    <title lang="es">Vidas por la vida</title>
+  </programme>
+  <programme start="20220616143000 -0300" stop="20220616150000 -0300" channel="TELEFIDES">
+    <title lang="es">Creados para amar</title>
+  </programme>
+  <programme start="20220616150000 -0300" stop="20220616151000 -0300" channel="TELEFIDES">
+    <title lang="es">Coronilla de la Divina Misericordia</title>
+  </programme>
+  <programme start="20220616151000 -0300" stop="20220616151500 -0300" channel="TELEFIDES">
+    <title lang="es">En oración frente al Santísimo</title>
+  </programme>
+  <programme start="20220616151500 -0300" stop="20220616153000 -0300" channel="TELEFIDES">
+    <title lang="es">Mensaje del padre John Mario Montoya</title>
+  </programme>
+  <programme start="20220616153000 -0300" stop="20220616160000 -0300" channel="TELEFIDES">
+    <title lang="es">Informe Pro Vida</title>
+  </programme>
+  <programme start="20220616160000 -0300" stop="20220616163000 -0300" channel="TELEFIDES">
+    <title lang="es">Santo Rosario</title>
+  </programme>
+  <programme start="20220616163000 -0300" stop="20220616170000 -0300" channel="TELEFIDES">
+    <title lang="es">Rosario infantil</title>
+  </programme>
+  <programme start="20220616170000 -0300" stop="20220616173000 -0300" channel="TELEFIDES">
+    <title lang="es">Infantiles Telefides</title>
+  </programme>
+  <programme start="20220616173000 -0300" stop="20220616180000 -0300" channel="TELEFIDES">
+    <title lang="es">Cristonautas</title>
+  </programme>
+  <programme start="20220616180000 -0300" stop="20220616190000 -0300" channel="TELEFIDES">
+    <title lang="es">Santa misa Basílica de Los Ángeles</title>
+  </programme>
+  <programme start="20220616190000 -0300" stop="20220616193000 -0300" channel="TELEFIDES">
+    <title lang="es">De dos en dos</title>
+  </programme>
+  <programme start="20220616193000 -0300" stop="20220616193500 -0300" channel="TELEFIDES">
+    <title lang="es">Cátedra mayor</title>
+  </programme>
+  <programme start="20220616193500 -0300" stop="20220616200000 -0300" channel="TELEFIDES">
+    <title lang="es">Dos padres bien padres</title>
+  </programme>
+  <programme start="20220616200000 -0300" stop="20220616203000 -0300" channel="TELEFIDES">
+    <title lang="es">Ecclesia</title>
+  </programme>
+  <programme start="20220616203000 -0300" stop="20220616210000 -0300" channel="TELEFIDES">
+    <title lang="es">En oración frente al Santísimo</title>
+  </programme>
+  <programme start="20220616210000 -0300" stop="20220616213000 -0300" channel="TELEFIDES">
+    <title lang="es">Catequesis Padre Hugo Estrada</title>
+  </programme>
+  <programme start="20220616213000 -0300" stop="20220616220000 -0300" channel="TELEFIDES">
+    <title lang="es">Santo Rosario - Misterios gloriosos</title>
+  </programme>
+  <programme start="20220616220000 -0300" stop="20220616230000 -0300" channel="TELEFIDES">
+    <title lang="es">Salvador Gómez</title>
+  </programme>
+  <programme start="20220616230000 -0300" stop="20220617000000 -0300" channel="TELEFIDES">
+    <title lang="es">Mientras el mundo gira</title>
+  </programme>
+  <programme start="20220616080000 -0300" stop="20220616090000 -0300" channel="VM LATINO">
+    <title lang="es">De la cepa</title>
+  </programme>
+  <programme start="20220616090000 -0300" stop="20220616100000 -0300" channel="VM LATINO">
+    <title lang="es">Videos continuos</title>
+  </programme>
+  <programme start="20220616100000 -0300" stop="20220616110000 -0300" channel="VM LATINO">
+    <title lang="es">Hablemos al Chile</title>
+  </programme>
+  <programme start="20220616110000 -0300" stop="20220616120000 -0300" channel="VM LATINO">
+    <title lang="es">Videos continuos</title>
+  </programme>
+  <programme start="20220616120000 -0300" stop="20220616130000 -0300" channel="VM LATINO">
+    <title lang="es">En línea</title>
+  </programme>
+  <programme start="20220616130000 -0300" stop="20220616140000 -0300" channel="VM LATINO">
+    <title lang="es">Videos con Melania</title>
+  </programme>
+  <programme start="20220616140000 -0300" stop="20220616150000 -0300" channel="VM LATINO">
+    <title lang="es">En serio Mae</title>
+  </programme>
+  <programme start="20220616150000 -0300" stop="20220616160000 -0300" channel="VM LATINO">
+    <title lang="es">Videos con Melania</title>
+  </programme>
+  <programme start="20220616160000 -0300" stop="20220616170000 -0300" channel="VM LATINO">
+    <title lang="es">Videos con Melania y Andrea</title>
+  </programme>
+  <programme start="20220616170000 -0300" stop="20220616180000 -0300" channel="VM LATINO">
+    <title lang="es">Videos con Andrea y Susan</title>
+  </programme>
+  <programme start="20220616180000 -0300" stop="20220616190000 -0300" channel="VM LATINO">
+    <title lang="es">En línea</title>
+  </programme>
+  <programme start="20220616190000 -0300" stop="20220616200000 -0300" channel="VM LATINO">
+    <title lang="es">Hablemos al Chile</title>
+  </programme>
+  <programme start="20220616200000 -0300" stop="20220616210000 -0300" channel="VM LATINO">
+    <title lang="es">De la cepa</title>
+  </programme>
+  <programme start="20220616210000 -0300" stop="20220616213000 -0300" channel="VM LATINO">
+    <title lang="es">Da Flow Internacional</title>
+  </programme>
+  <programme start="20220616213000 -0300" stop="20220616220000 -0300" channel="VM LATINO">
+    <title lang="es">Videos continuos</title>
+  </programme>
+  <programme start="20220616220000 -0300" stop="20220616230000 -0300" channel="VM LATINO">
+    <title lang="es">Riddim Nation</title>
+  </programme>
+  <programme start="20220616230000 -0300" stop="20220617080000 -0300" channel="VM LATINO">
+    <title lang="es">Videos continuos</title>
+  </programme>
+</tv>
